@@ -1,0 +1,9 @@
+*.mat
+.vscode
+submit_tf
+submit_pt
+*.ipynb
+*.pyc
+__pycache__
+*.h5
+*.hdf5
